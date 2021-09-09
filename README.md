@@ -7,5 +7,5 @@
     - AVD 시작하기
 
 
-<img width="" height="" src="./png/2주차 출석과제.PNG"></img>
+<img width="" height="" src="./png/2주차 출석 과제.PNG"></img>
 

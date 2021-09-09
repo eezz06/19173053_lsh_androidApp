@@ -5,3 +5,7 @@
   - 안드로이드앱 프로그래밍 시작
     - Toast 알림
     - AVD 시작하기
+
+
+<img width="" height="" src="./png/강아지.png"></img>
+

@@ -7,5 +7,6 @@
     - AVD 시작하기
 
 
-<img width="" height="" src="./png/3주차 과제 1.PNG/3주차 과제 2.PNG"></img>
+<img width="" height="" src="./png/3주차 과제 1.PNG/"></img>
+<img width="" height="" src="./png/3주차 과제 2.PNG/"></img>
 

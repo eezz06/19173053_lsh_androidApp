@@ -22,5 +22,10 @@
     만보기 기능: 몇 보 이상 걸어야 알람이 꺼짐
     
     사진 찍기: 구름이 나오게 사진을 찍어야 알람이 꺼짐
+    
+    
+## 5주차 과제
+ <img width="" height="" src="./png/강아지5.PNG/"></img>
+ <img width="" height="" src="./png/고양이5.PNG/"></img>
       
     

@@ -27,5 +27,9 @@
 ## 5주차 과제
  <img width="" height="" src="./png/강아지5.PNG/"></img>
  <img width="" height="" src="./png/고양이5.PNG/"></img>
+ 
+## 6주차 과제
+ <img width="" height="" src="./png/6주차 바꾸기 전.PNG/"></img>
+ <img width="" height="" src="./png/6주차 바꾼 후.PNG/"></img>
       
     

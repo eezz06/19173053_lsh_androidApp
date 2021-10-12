@@ -35,6 +35,7 @@
 <img width="" height="" src="./png/6주차 높이.PNG/"></img>
  
 ## 7주차 과제
+<img width="" height="" src="./png/캡스톤 7주차 과제.PNG/"></img>
 
       
     

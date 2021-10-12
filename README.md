@@ -34,5 +34,7 @@
 <img width="" height="" src="./png/6주차 넓이.PNG/"></img>
 <img width="" height="" src="./png/6주차 높이.PNG/"></img>
  
+## 7주차 과제
+
       
     

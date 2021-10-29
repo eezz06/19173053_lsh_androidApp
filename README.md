@@ -38,7 +38,7 @@
 <img width="" height="" src="./png/캡스톤 7주차 과제.PNG/"></img>
 
 ## 9주차 과제
-<img width="" height="" src="./png/캡스톤 9주차 과제.PNG/"></img>
+<img width="" height="" src="./png/캡스톤 9주차 과제.png/"></img>
 
 
       
